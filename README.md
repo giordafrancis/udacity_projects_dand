@@ -24,6 +24,6 @@ Gathered data from a variety of sources and in a variety of formats, assess its 
 
 #### Data Story Telling
 
-Used Tableau to create an explanatory data visualization that communicates a clear finding on the borrowers form the per-to-per prosper loans platform.
+Used Tableau to create an explanatory data visualization that communicates a clear finding on the borrowers form the peer-to-peer prosper loans platform.
 Project can be viewed [here](https://public.tableau.com/profile/francisco.giordano.silva#!/vizhome/project_prosper/prosper_fgs_v2)
 
